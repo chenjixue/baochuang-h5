@@ -13,9 +13,11 @@
   "dependencies": {
     "antd-mobile": "^5.30.0",
     "autoprefixer": "^10.4.14",
+    "localforage": "^1.10.0",
     "postcss-px-to-viewport-8-plugin": "^1.2.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
